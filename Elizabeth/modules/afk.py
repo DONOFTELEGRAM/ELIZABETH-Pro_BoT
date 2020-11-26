@@ -145,7 +145,7 @@ def check_afk(update, context, user_id, fst_name, userc_id):
         else:
             if int(userc_id) == int(user_id):
                 return
-            res = "<b>{}</b> is away from keyboard! says it's because of <b>Reason:</b> <code>{}</code>".format(
+            res = "<b>{}</b>is Traveling to Next Universe See You in Next LY 🚀🚀🚀 says it's because of <b>Reason:</b> <code>{}</code>".format(
                 fst_name, user.reason)
             replafk = update.effective_message.reply_text(
                 res, parse_mode="html")
