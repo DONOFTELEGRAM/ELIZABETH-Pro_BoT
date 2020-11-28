@@ -40,19 +40,19 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = f"""
 `Hi..Welcome` 👀
-`I'm` [ELIZABETH👸](https://telegra.ph/file/ae9e98ef453382507b745.jpg)
+`I'm` [乂💃⃝ƛԼƛƝƘƦƖƬӇƛ🦋⃟ ࿐](https://telegra.ph/file/a0b91ee7b62b456cae7ed.jpg)
 `I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
 """
 
-buttons = [[InlineKeyboardButton(text="⚙️ HELP AND COMMANDS ",
+buttons = [[InlineKeyboardButton(text="❔ HELP AND COMMANDS ",
                                   callback_data="help_back"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="🔌ADD ME TO YOUR GROUP ",
+buttons += [[InlineKeyboardButton(text="♻️ADD ME TO YOUR GROUP ",
                                   url="t.me/ELIZABETHTG_bot?startgroup=true"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="💻SUPPORT",
+buttons += [[InlineKeyboardButton(text="🔄SUPPORT",
                                   url="https://t.me/TG_BotZ"),
 ]]
 
@@ -61,7 +61,7 @@ buttons + [[InlineKeyboardButton(text="🔒 CLOSE THE MENU",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` [ELIZABETH👸](https://telegra.ph/file/ae9e98ef453382507b745.jpg)
+`Hi.. I'm` [乂💃⃝ƛԼƛƝƘƦƖƬӇƛ🦋⃟ ࿐](https://telegra.ph/file/a0b91ee7b62b456cae7ed.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
